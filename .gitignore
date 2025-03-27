@@ -1,0 +1,66 @@
+# =============== #
+# Unity Generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+Packages/manifest.json
+Packages/packages-lock.json
+
+# ========== #
+# OS / IDE   #
+# ========== #
+.DS_Store
+Thumbs.db
+*.suo
+*.user
+*.userosscache
+*.sln*
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ======= #
+# Unity   #
+# ======= #
+*.unitypackage
+*.asset
+*.prefs
+*.pidb.meta
+*.pdb.meta
+*.tpsheet
+*.tpsheet.meta
+*.anim.meta
+
+# ============ #
+# VS / Rider   #
+# ============ #
+.vscode/
+*.csproj
+*.unityproj
+.idea/
+*.iml
+
+# ============== #
+# Auto-Generated #
+# ============== #
+/Assets/Plugins/*/*.meta
+/Assets/StreamingAssets/*.meta
+/Assets/Editor/*.meta
+
+# ========== #
+# Logs      #
+# ========== #
+*.log
+*.log.meta
+
+# ============= #
+# Ignore Builds #
+# ============= #
+/Builds/
