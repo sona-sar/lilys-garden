@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - JumpGround
+  - Flower
+  - Water
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - JumpGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2065895463
+    locked: 0
+  - name: foreground
+    uniqueID: 3042010737
+    locked: 0
+  - name: background_items
+    uniqueID: 3392966811
+    locked: 0
+  - name: Player
+    uniqueID: 4219030725
+    locked: 0
+  - name: jump
+    uniqueID: 1512835051
+    locked: 0
+  - name: flowers
+    uniqueID: 1565310893
+    locked: 0
+  m_RenderingLayers:
+  - Default
